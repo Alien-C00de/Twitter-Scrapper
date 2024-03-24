@@ -13,7 +13,11 @@ The Twitter Scraper is a powerful tool designed to scrape tweets from Twitter an
 Before running the Twitter Scraper, ensure you have the following libraries installed:
 
 ```bash
-pip install pandas wordcloud numpy matplotlib Pillow
+pip install pandas
+pip install wordcloud
+pip install numpy
+pip install matplotlib
+pip install Pillow
 ```
 
 ## Usage
